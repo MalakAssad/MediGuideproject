@@ -45,30 +45,7 @@ Track your daily medications with ease:
 
 ---
 
-##  App Structure
 
-### Main Screens:
-- **Dashboard**: Health tips, readings, and timeline
-- **Medications**: List, status, and add new entries
-- **Tracking**: Real-time analysis and adherence
-- **Manage**: Add or edit health data
 
 ---
 
-##  Tech Stack
-
-- React Native  
-- Expo  
-- JavaScript  
-- Styled Components  
-- Local Storage / State Management
-
----
-
-##  Installation
-
-```bash
-git clone https://github.com/<your-username>/mediguide-app.git
-cd mediguide-app
-npm install
-npm start
