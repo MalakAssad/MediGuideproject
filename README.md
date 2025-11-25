@@ -1,16 +1,74 @@
-# malakmobilefolder
+# MediGuide   
+**Your Personal Health Companion**
 
-A new Flutter project.
+MediGuide is a mobile health tracking application designed to help users monitor their blood pressure & sugar readings, manage medications, and receive helpful health tips. With a clean interface and intuitive features, MediGuide empowers users to stay on top of their health.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🏠 Homepage Preview
 
-A few resources to get you started if this is your first Flutter project:
+![Homepage Screenshot](<insert homepage image link here>)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+> "Fast, convenient, and reliable mobile health tracking."
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+## Health Dashboard
+
+![Dashboard Screenshot](<insert dashboard image link here>)
+
+### Key Features:
+- **Health Tip of the Day**  
+  Daily advice to support healthy habits.
+
+- **Record a Reading**  
+  Input blood pressure values and receive instant analysis.
+
+- **Real-Time Feedback**  
+  Example: “High blood pressure detected. Seek medical advice.”
+
+- **Medication Timeline**  
+  View scheduled medications and adherence percentage.
+
+---
+
+## Medication Tracking
+
+![Medication Page Screenshot](<insert medication page image link here>)
+
+Track your daily medications with ease:
+
+- Medication name and dosage  
+- Scheduled time  
+- Checkboxes for completion  
+- Add new medications with a single tap
+
+---
+
+##  App Structure
+
+### Main Screens:
+- **Dashboard**: Health tips, readings, and timeline
+- **Medications**: List, status, and add new entries
+- **Tracking**: Real-time analysis and adherence
+- **Manage**: Add or edit health data
+
+---
+
+##  Tech Stack
+
+- React Native  
+- Expo  
+- JavaScript  
+- Styled Components  
+- Local Storage / State Management
+
+---
+
+##  Installation
+
+```bash
+git clone https://github.com/<your-username>/mediguide-app.git
+cd mediguide-app
+npm install
+npm start
