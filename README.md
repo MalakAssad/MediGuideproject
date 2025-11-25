@@ -15,7 +15,7 @@ MediGuide is a mobile health tracking application designed to help users monitor
 
 ## Health Dashboard
 
-![Dashboard Screenshot](<insert dashboard image link here>)
+![Dashboard Screenshot](https://github.com/MalakAssad/MediGuideproject/blob/main/localhost_63892_%20(2).png?raw=true)
 
 ### Key Features:
 - **Health Tip of the Day**  
