@@ -34,7 +34,7 @@ MediGuide is a mobile health tracking application designed to help users monitor
 
 ## Medication Tracking
 
-![Medication Page Screenshot](<insert medication page image link here>)
+![Medication Page Screenshot](https://github.com/MalakAssad/MediGuideproject/blob/main/localhost_63892_%20(1).png?raw=true)
 
 Track your daily medications with ease:
 
